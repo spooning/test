@@ -4,4 +4,4 @@ Foo
 Bar
     Fail   Damn, I broke this!
 Nar
-    Log   moikka
+    Log   moikka moi
