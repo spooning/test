@@ -2,6 +2,7 @@
 Foo
     Log   hello
 Bar
-    Fail   Damn, I broke this!
+    Log   susses!
+    #Fail   Damn, I broke this!
 Nar
     Log   moikka moi
